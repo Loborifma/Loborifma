@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Loborifma
-- 👀 I’m interested in becoming a superprogrammer
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on some project
-- 📫 How to reach me woo.f29@mail.ru
+# Hi there, I'm Maksim ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Android Java developer from Russia
 
-<!---
-Loborifma/Loborifma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# About me
+
+I'm beginner programmer, learn Java about 8 mounth and study Android studio about 3 mounth.
+
+# Skills
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   	![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+ 
+ 
+# Stat
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loborifma)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
+[![codewars](https://www.codewars.com/users/Loborifma/badges/large)](https://www.codewars.com/users/username)
