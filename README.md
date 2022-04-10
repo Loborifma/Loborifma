@@ -4,7 +4,9 @@
 
 # About me
 
-I'm beginner programmer, learn Java about 8 mounth and study Android studio about 3 mounth.
+I'm beginner programmer, learn Java about 8 month and study Android studio about 3 month.
+
+Familiar with Room, SQLite
 
 # Skills
 
