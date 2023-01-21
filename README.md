@@ -1,17 +1,26 @@
 # Hi there, I'm Maksim ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Android Java developer from Russia
+### React developer from Russia
 
 
 # About me
 
-I'm beginner programmer, learn Java about 8 month and study Android studio about 3 month.
+Moved to frontend from android development, where i worked for 1,5 year. 
 
-Familiar with Room, SQLite
+Now I have been actively studying new technologies for about six months, which I fix on freelance orders.
 
-# Skills
+Familiar with technologies: 
++ React
++ JS
++ HTML
++ CSS
+ + SASS
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   	![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
- 
+If you need a good specialist in the team, write. I will be happy to talk to you and tell you more about my experience. Feel free to subscribe and give advice about my skills)
+
+
+Email: maxsim_finkelshtein@mail.ru <br/>
+Telegram: @Rwuet <br/>
+VK: https://vk.com/loborifm 
  
 # Stat
 
