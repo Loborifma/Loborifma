@@ -11,6 +11,7 @@ Now I have been actively studying new technologies for about six months, which I
 Familiar with technologies: 
 + React
 + JS
++ TS
 + HTML
 + CSS
  + SASS
